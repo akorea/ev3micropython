@@ -9,4 +9,3 @@ The sequence is as follows.
 4. ev3device
 
 
-How To run
