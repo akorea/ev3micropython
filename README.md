@@ -6,6 +6,6 @@ The sequence is as follows.
 1. python
 2. hubs
 3. robotics
-4. ev3device
+4. ev3devices
 
 
